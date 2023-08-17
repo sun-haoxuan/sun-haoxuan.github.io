@@ -14,12 +14,12 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
+  
+  - title: "Air Quality Report"
+    url: /publications_aqa/
+
   - title: "CV"
     url: /files/Curriculum_Vita_May_2022.pdf
     
   # - title: "Guide"
   #   url: /markdown/
-
-  - title: "Air Quality Report"
-    url: /publications_aqa/
