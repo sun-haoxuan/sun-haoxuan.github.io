@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
-{% for post in site.publications_aqa reversed %}
-  {% include archive-single.html %}
+<hr width="80%">
+{% for post in site.publications reversed %}
+  {% include archive-pub.html %}
 {% endfor %}
