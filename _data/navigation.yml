@@ -15,11 +15,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /files/Curriculum_Vita_May_2022.pdf
     
   # - title: "Guide"
   #   url: /markdown/
 
-    - title: "Air Quality Report"
-    url: /aqa/
+  - title: "Air Quality Report"
+  url: /aqa/
