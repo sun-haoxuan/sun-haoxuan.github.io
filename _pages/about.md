@@ -15,5 +15,6 @@ I am a second-year Ph.D. student at the [Academy for Advanced Interdisciplinary 
 Currently, my research interests focus on environmental statistics and ensemble kalman filter. Feel free to connect me!
 
 
-> だって私、あの人を追いかけてる私が好きなんだもの 
-> 因为我所爱的是追寻那个人的自己 --- 今敏「千年女優」
+> だって私、あの人を追いかけてる私が好きなんだもの --- 今敏「千年女優」
+
+> Cos what I truly loved was the self chasing after that person--- Kon Satoshi「Millennium Actress」
