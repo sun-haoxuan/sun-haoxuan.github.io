@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 <hr width="80%">
-{% for post in site.publications reversed %}
+{% for post in site.publications_aqa reversed %}
   {% include archive-pub.html %}
 {% endfor %}
