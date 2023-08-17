@@ -10,14 +10,9 @@ redirect_from:
 
 Hi, welcome to my homepage!
 
-Hao-Xuan Sun is a second-year Ph.D. student at the [Academy for Advanced Interdisciplinary Studies](https://www.aais.pku.edu.cn/en/), Peking University, supervised by Professor [Song Xi Chen](https://www.songxichen.com/).
+I am a second-year Ph.D. student at the [Academy for Advanced Interdisciplinary Studies](https://www.aais.pku.edu.cn/en/), Peking University, supervised by Professor [Song Xi Chen](https://www.songxichen.com/).
 
+Currently, my research interests focus on environment statistics and ensemble kalman filter. Feel free to connect me!
 
-Research Interests
-------------------------
-
-- Environment Statistics
-- Epidemic Modeling
-- Ensemble Kalman Filter
 
 > だって私、あの人を追いかけてる私が好きなんだもの --- 今敏「千年女優」
