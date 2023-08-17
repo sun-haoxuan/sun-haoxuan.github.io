@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-------------------------
+Hi, welcome to my homepage!
+
 Hao-Xuan Sun is a second-year Ph.D. student at the [Academy for Advanced Interdisciplinary Studies](https://www.aais.pku.edu.cn/en/), Peking University, supervised by Professor [Song Xi Chen](https://www.songxichen.com/).
 
 
