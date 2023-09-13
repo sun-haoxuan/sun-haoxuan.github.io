@@ -10,9 +10,10 @@ redirect_from:
 
 Hi, welcome to my homepage!
 
-I am a second-year Ph.D. student at the [Academy for Advanced Interdisciplinary Studies](https://www.aais.pku.edu.cn/en/), Peking University, supervised by Professor [Song Xi Chen](https://www.songxichen.com/).
+I am a second-year Ph.D. candidate at the [Academy for Advanced Interdisciplinary Studies](https://www.aais.pku.edu.cn/en/), Peking University, supervised by Professor [Song Xi Chen](https://www.songxichen.com/).
 
 Currently, my research interests focus on environmental statistics and ensemble kalman filter. Feel free to connect me!
 
 
-> だって私、あの人を追いかけてる私が好きなんだもの --- 今敏「千年女優」<br> Because what I truly loved was the self chasing after him --- Kon Satoshi「Millennium Actress」
+<!-- > だって私、あの人を追いかけてる私が好きなんだもの --- 今敏「千年女優」<br> Because what I truly loved was the self chasing after him --- Kon Satoshi「Millennium Actress」 -->
+> Because what I truly loved was the self chasing after him --- Kon Satoshi「Millennium Actress」
