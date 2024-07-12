@@ -16,4 +16,5 @@ Currently, my research interests focus on environmental statistics and ensemble 
 
 
 <!-- > だって私、あの人を追いかけてる私が好きなんだもの --- 今敏「千年女優」<br> Because what I truly loved was the self chasing after him --- Kon Satoshi「Millennium Actress」 -->
-> Because what I truly loved was the self chasing after him --- Kon Satoshi「Millennium Actress」
+<!-- > Because what I truly loved was myself chasing after him --- Kon Satoshi「Millennium Actress」 -->
+> Because what I truly cherished was the pursuit of my own self as it chased after him. --- Kon Satoshi「Millennium Actress」
