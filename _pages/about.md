@@ -12,7 +12,7 @@ Hi, welcome to my homepage!
 
 I am a final-year Ph.D. candidate at the [Academy for Advanced Interdisciplinary Studies](https://www.aais.pku.edu.cn/en/), Peking University, supervised by Professor [Song Xi Chen](https://www.songxichen.com/).
 
-Currently, my research interests focus on environmental statistics and data assimilation. 
+Currently, my research interests focus on environmental statistics, data assimilation and its application in geoscience. 
 
 I have also got a big idea of applying statistical methods on astronomy studies! Therefore, I will always wait for such a chance.
 
