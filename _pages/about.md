@@ -16,7 +16,7 @@ Currently, my research interests focus on environmental statistics, data assimil
 
 Meanwhile, I have also got a big idea of applying statistical methods on the astronomy studies!
 
-I am also a part-time barista at [Café Obtus, Peking University](https://mp.weixin.qq.com/s/CsXiT3ZWsTkdJ12gDyrQrw) and am on duty on 2-4pm every Monday :)
+I am also a part-time barista at [Café Obtus](https://mp.weixin.qq.com/s/CsXiT3ZWsTkdJ12gDyrQrw) and am on duty on 2-4pm every Monday :)
 
 I am on the 2024-2025 academic job market and would be happy to discuss any opportunities.
 Please kindly find my latest [CV](https://sun-haoxuan.github.io/files/Curriculum_Vita_Sep_2024.pdf) here and feel free to contact me!
