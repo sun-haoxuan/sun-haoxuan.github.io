@@ -12,9 +12,9 @@ Hi, welcome to my homepage!
 
 I am a final-year Ph.D. candidate at the [Academy for Advanced Interdisciplinary Studies](https://www.aais.pku.edu.cn/en/), Peking University, supervised by Professor [Song Xi Chen](https://www.songxichen.com/).
 
-Currently, my research interests focus on environmental statistics, data assimilation and its application in geoscience. I have also got a dream of applying statistical methods on the astronomical studies!
+Currently, my research interests focus on environmental statistics, data assimilation and its application in geoscience. I have also got a dream of applying statistical methods on the *astronomical studies*!
 
-Meanwhile, I am also a part-time barista at [Café Obtus](https://mp.weixin.qq.com/s/CsXiT3ZWsTkdJ12gDyrQrw) and am on duty on 2-4pm every Monday.
+Meanwhile, I am also a part-time barista at [Café Obtus](https://mp.weixin.qq.com/s/CsXiT3ZWsTkdJ12gDyrQrw) and am on duty every Monday.
 
 I am on the **2024-2025 academic job market** and would be happy to discuss any opportunities.**
 Please kindly find my latest [CV](https://sun-haoxuan.github.io/files/Curriculum_Vita_Sep_2024.pdf) here and feel free to contact me!
