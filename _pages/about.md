@@ -17,7 +17,7 @@ Currently, my research interests focus on high-dimensional statistics, data assi
 Besides, I am also a part-time barista at [Café Obtus](https://mp.weixin.qq.com/s/CsXiT3ZWsTkdJ12gDyrQrw) every Monday.
 
 I am in the **2024-2025 academic job market** and would be happy to discuss any opportunities.
-Please kindly find my latest [CV](https://sun-haoxuan.github.io/files/Curriculum_Vita_Sep_2024.pdf) here and feel free to contact me!
+Please kindly find my latest [CV](https://sun-haoxuan.github.io/files/Curriculum_Vita_Oct_2024.pdf) here and feel free to contact me!
 
 <!-- > だって私、あの人を追いかけてる私が好きなんだもの --- 今敏「千年女優」<br> Because what I truly loved was the self chasing after him --- Kon Satoshi「Millennium Actress」 -->
 <!-- Because what I truly cherished was none other than myself who chased after him. -->
