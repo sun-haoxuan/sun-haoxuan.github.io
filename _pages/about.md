@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, welcome to my homepage!
 
-I am now an assistant professor at the School of Mathematics, Harbin Institute of Technology. Before that, I obtained the B.S. in statistics at the [School of Mathematics Science](https://www.math.pku.edu.cn/puremath_en/), Peking University, and the Ph.D. in data science at the [Academy for Advanced Interdisciplinary Studies](https://www.aais.pku.edu.cn/en/), Peking University, supervised by Professor [Song Xi Chen](https://www.songxichen.com/), who took me into the fascinating applications of statistics in interdisciplinary studies.
+I am now an assistant professor at the School of Mathematics, Harbin Institute of Technology. Before that, I obtained the B.S. in statistics at the [School of Mathematical Sciences](https://www.math.pku.edu.cn/puremath_en/), Peking University, and the Ph.D. in data science at the [Academy for Advanced Interdisciplinary Studies](https://www.aais.pku.edu.cn/en/), Peking University, supervised by Professor [Song Xi Chen](https://www.songxichen.com/), who took me into the fascinating applications of statistics in interdisciplinary studies.
 
 Currently, my research interests focus on high-dimensional statistics, data assimilation, astrostatistics and ocean science. My past works also focus on environmental statistics and epidemic models. <!-- Meanwhile, I also dream of applying statistical methods to *astronomical studies*! -->
 
