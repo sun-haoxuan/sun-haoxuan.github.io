@@ -5,6 +5,6 @@ author: Yan, H.*, Zhu, Y.*, Gu, J.*, Huang, Y.*, <strong>Sun, H-X.*</strong>, Zh
 conf: 'Proceedings of the Royal Society A'
 conf_shortname: 'Proc. R. Soc. A'
 year: 2021
-paperurl: /publications/papers/2021_PRSA.pdf
+paperurl: /publications/papers/Yan_2021_PRSA.pdf
 additional: true
 ---

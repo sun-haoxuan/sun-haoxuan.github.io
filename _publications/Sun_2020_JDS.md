@@ -5,6 +5,6 @@ author: <strong>Sun, H-X.</strong>, Qiu, Y., Yan, H., Huang, Y., Zhu, Y., Gu, J,
 conf: 'Journal of Data Science'
 year: 2020
 codeurl: https://github.com/sun-haoxuan/vSIR
-paperurl: /publications/papers/2020_JDS.pdf
+paperurl: /publications/papers/Sun_2020_JDS.pdf
 additional: true
 ---

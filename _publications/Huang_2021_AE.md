@@ -4,6 +4,6 @@ collection: publications
 author: Huang, Y., Gu, B, <strong>Sun, H-X.</strong>, Liu, H., Chen, S.X.
 conf: 'Atmospheric Environment'
 year: 2021
-paperurl: /publications/papers/2021_AE.pdf
+paperurl: /publications/papers/Huang_2021_AE.pdf
 additional: true
 ---
