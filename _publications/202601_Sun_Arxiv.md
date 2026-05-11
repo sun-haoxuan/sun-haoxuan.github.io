@@ -4,6 +4,6 @@ collection: publications
 author: <strong>Sun, H-X.</strong>, Chen, S.X., Qiu, Y.
 conf: 'Arxiv Preprint'
 year: 2026
-paperurl: /publications/papers/Sun_2026_Arxiv.pdf
+paperurl: /publications/papers/202601_Sun_Arxiv.pdf
 additional: true
 ---
