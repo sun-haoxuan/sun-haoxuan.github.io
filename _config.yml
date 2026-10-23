@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hao-Xuan Sun / 孙浩轩"
 title_separator          : "-"
 name                     : &name "Hao-Xuan Sun"
-description              : &description "Tenure-track assistant professor in Statistics"
+description              : &description "Tenure-track associate professor in Statistics"
 url                      : https://sun-haoxuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sun-haoxuan/sun-haoxuan.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hao-Xuan Sun"
   avatar           : "Profile_2025.jpg"
-  bio              : "Email: hxsun at hit dot edu dot cn"
+  bio              : "Email: hx7sun at gmail dot com"
   location         : "Harbin, China"
   employer         :
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
